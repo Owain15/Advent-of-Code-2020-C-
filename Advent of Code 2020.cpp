@@ -2,20 +2,21 @@
 #include <iostream>
 //#include <string>
 
-#include "D1.h"
+#include "Aoc2020.h"
 
 int main()
 {
+
     std::cout << "Advent Of Code 2020\n\n";
     
-    D1::Test();
+    //int processResult = D1::RunPartOne();
+    //int processResult = D1::RunPartTwo();
 
-    //std::cout << "Test Text\n";
+    //int processResult = D2::RunPartOne();
+    //int processResult = D2::RunPartTwo();
 
-    //int t = 10;
-    //std::cout << ("t = ");
-    //std::cout << (t);
-    //std::cout << ("\n\n\n\n");
+    int processResult = D3::RunPartOne();
+    //int processResult = D3::RunPartTwo();
 
 }
 

@@ -30,9 +30,15 @@
     <ClCompile Include="D1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D1.h">
+    <ClInclude Include="Aoc2020.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -47,6 +53,24 @@
       <Filter>Resource Files\TestData</Filter>
     </Text>
     <Text Include="D1-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D2.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D2-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D2-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D3.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D3-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D3-Data.txt">
       <Filter>Resource Files\ActualData</Filter>
     </Text>
   </ItemGroup>

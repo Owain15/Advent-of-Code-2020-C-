@@ -159,7 +159,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -185,14 +185,22 @@
   <ItemGroup>
     <ClCompile Include="Advent of Code 2020.cpp" />
     <ClCompile Include="D1.cpp" />
+    <ClCompile Include="D2.cpp" />
+    <ClCompile Include="D3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D1.h" />
+    <ClInclude Include="Aoc2020.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="D1-Data.txt" />
     <Text Include="D1-Test.txt" />
     <Text Include="D1.txt" />
+    <Text Include="D2-Data.txt" />
+    <Text Include="D2-Test.txt" />
+    <Text Include="D2.txt" />
+    <Text Include="D3-Data.txt" />
+    <Text Include="D3-Test.txt" />
+    <Text Include="D3.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
