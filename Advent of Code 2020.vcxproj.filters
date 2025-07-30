@@ -36,6 +36,24 @@
     <ClCompile Include="D3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aoc2020.h">
@@ -73,5 +91,62 @@
     <Text Include="D3-Data.txt">
       <Filter>Resource Files\ActualData</Filter>
     </Text>
+    <Text Include="D4.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D4-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D4-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D5.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D5-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D5-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D6-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D6.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D6-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D7-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D7.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D7-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D8-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D8.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D8-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+    <Text Include="D9.txt">
+      <Filter>Resource Files\DayPrompts</Filter>
+    </Text>
+    <Text Include="D9-Data.txt">
+      <Filter>Resource Files\ActualData</Filter>
+    </Text>
+    <Text Include="D9-Test.txt">
+      <Filter>Resource Files\TestData</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

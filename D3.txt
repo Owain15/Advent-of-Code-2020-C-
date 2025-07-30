@@ -35,6 +35,7 @@ the same pattern repeats to the right many times:
 #.##...#...#.##...#...#.##...#...#.##...#...#.##...#...#.##...#...
 #...##....##...##....##...##....##...##....##...##....##...##....#
 .#..#...#.#.#..#...#.#.#..#...#.#.#..#...#.#.#..#...#.#.#..#...#.#  --->
+
 You start on the open square (.) in the top-left corner and need to reach the bottom (below the bottom-most row on your map).
 
 The toboggan can only follow a few specific slopes (you opted for a cheaper model that prefers rational numbers); start by 
